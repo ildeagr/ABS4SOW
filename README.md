@@ -1,9 +1,9 @@
-## Proyeto ABS4SOW ()
-## Objetico:
-Realizar una aplicación movil para recogida de informacion y generacion de patrones de consumidores en centros comerciales.
+## Proyeto de abstracción, síntesis e integración de información para el análisis del flujo de trabajo social
+## Objetivo:
+Realizar una aplicación movil para crear campañas de marketing en centros comerciales, donde los consumidores realicen actividades en tiendas o localizaciones basadas en juegos.
 
 ## Funcionamiento del frontend:
-En este proyecto se diseñó una aplicacion móvil en la cual se recopilan los datos de todos los sensores y ubicacion del dispositivo guardandolos en archivos .txt. Al mismo tiempo la interfaz diseñada, tal como se muestra en la imagen, tenemos las opciones de indicar una localizacion y una actividad de tal forma que esto se guarde igualmente en un archivo .txt.
+En este proyecto se diseñó una aplicacion móvil en la cual se recopilan los datos de todos los sensores y ubicacion del dispositivo guardandolos en archivos .txt. Al mismo tiempo la interfaz diseñada, tal como se muestra en la imagen, tiene varias opciones para indicar una localizacion y una actividad.
 
 ![Captura de pantalla 2024-10-15 a las 14 18 30](https://github.com/user-attachments/assets/f3a4c080-3d48-47d6-8f6a-4b814e2380d9)
 
@@ -35,4 +35,12 @@ Y así sucesivamente hasta completar un recorrido a traves de diferentes sitios 
 Una vez finalizado el recorrido planificado, pulsámos en el boton "Save". Ahora la aplicación juntarña todos los archivos .txt en un archivo compromido más facil de manejar y enviar para su posterior tratamiento.
 
 ## Que sucede con la informacion obtenida:
-Toda esta informacion se almacena para realizar un tratamiento posterior y intentar obtener un patrón de comportamiento para ofrecer una experiencia en productos e intereses a los consumidores. Este patrón se analiza fuera de la apliación móvil con otro medios de procesamiento de datos. 
+Toda esta informacion se almacena para realizar un tratamiento posterior y intentar conocer si es posible tener un patrón de para ofrecer una experiencia en productos e intereses a los consumidores en centros comerciales, y de esta manera ofertar campañas de marketing a traves de actividades. Este patrón se analiza fuera de la apliación móvil con otro medios de procesamiento de datos.
+
+## Sobre mi participacion y Logros:
+Participé en este proyecto junto a otros compañeros durante más de un año. Además conseguí los siguientes logro personales:
+
+1. APrender conocimiento sobre la programacion Java y aplicaciones móviles con Android Studio.
+2. Desarrollé la parte del frontend de la aplicación.
+3. Me encargué de programar el guardado y compresion de los archivos generados, el código de control de los botones y textos mostrados tanto estáticos como dinámicos a traves de Toast.
+5. Participé en realizar las pruebas en un entorno real.
