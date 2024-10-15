@@ -12,12 +12,12 @@ Para generar la informacion correctamente debemos ir indicando que zona y activi
 
 Por ejemplo:
 Iniciámos el recorrido en una cafetería.
-1. Indicamos las opciones a seleccionar: Place: Cafetito; Zona: Restaurants; Activity: Eating. Y también el nombre del archivo en el campo "Name File".
+1. Indicamos las opciones a seleccionar: Place: Cafetito; Zona: Restaurants; Activity: Eating. Y también el nombre del archivo en el campo "Name File". en la parte inferior se muestran las opciones seleccionadas antes de iniciar la actividad y habilitar todo.
 
 ![Captura de pantalla 2024-10-15 a las 14 17 40](https://github.com/user-attachments/assets/d9b42f75-d0dc-441e-9301-b1ac661278be)
 
 
-2. Pulsamos "Start" para iniciar.
+2. Pulsamos "Start" para iniciar. Se habilita la locaclización de Google y se comienza a recoger datos hasta que finalicemos la actividad.
    
 ![Captura de pantalla 2024-10-15 a las 14 16 18](https://github.com/user-attachments/assets/e798e706-a6db-4362-ae2d-714b4c0949ec)
 
