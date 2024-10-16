@@ -3,7 +3,7 @@
 Realizar una aplicación movil para crear campañas de marketing en centros comerciales, donde los consumidores realicen actividades en tiendas o localizaciones basadas en juegos.
 
 ## Sobre mi participacion y Logros:
-Participé en este proyecto junto a otros compañeros durante más de un año. Además conseguí los siguientes logro personales:
+Participé en este proyecto junto a otros compañeros durante más de un año. Además conseguí los siguientes logros personales:
 
 1. Aprender conocimiento sobre la programación Java y aplicaciones móviles con Android Studio.
 2. Desarrollé la parte del frontend de la aplicación.
