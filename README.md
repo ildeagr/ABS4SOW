@@ -1,6 +1,6 @@
 ## Proyeto de abstracción, síntesis e integración de información para el análisis del flujo de trabajo social
 ## Objetivo:
-Realizar una aplicación movil para crear campañas de marketing en centros comerciales, donde los consumidores realicen actividades en tiendas o localizaciones basadas en juegos.
+Realizar una aplicación móvil para crear campañas de marketing en centros comerciales, donde los consumidores realicen actividades en tiendas o localizaciones basadas en juegos.
 
 ## Sobre mi participacion y Logros:
 Participé en este proyecto junto a otros compañeros durante más de un año. Además conseguí los siguientes logros personales:
