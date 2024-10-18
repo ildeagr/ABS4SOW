@@ -32,7 +32,7 @@ Iniciámos el recorrido en una cafetería.
 3. Al terminar en la cafetería pulsamos "Stop".
 
 
-Cambiamos de actividad y damos un paseo por los pasillos del centro comercial.
+Cambiamos de actividad y damos un paseo por los pasillos del centro comercial, pues realizamos los siguientes pasos:
 1. Opciones a seleccionar: Place: No place ; Zona: Shops ; Activity: Walking.
 2. Pulsamos "Start" para iniciar.
 3. Al terminar en la cafetería pulsamos "Stop".
