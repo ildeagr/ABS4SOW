@@ -1,14 +1,14 @@
-## Proyeto de abstracción, síntesis e integración de información para el análisis del flujo de trabajo social
+## Proyecto de abstracción, síntesis e integración de información para el análisis del flujo de trabajo social
 ## Objetivo:
 Realizar una aplicación móvil para crear campañas de marketing en centros comerciales, donde los consumidores realicen actividades en tiendas o localizaciones basadas en juegos.
 
-## Sobre mi participacion y Logros:
+## Sobre mi participación y Logros:
 Participé en este proyecto junto a otros compañeros durante más de un año. Además conseguí los siguientes logros personales:
 
 1. Aprender conocimiento sobre la programación Java y aplicaciones móviles con Android Studio.
 2. Desarrollé la parte del frontend de la aplicación.
 3. Me encargué de programar el guardado y compresión de los archivos generados, el código de control de los botones y textos mostrados tanto estáticos como dinámicos a traves de Toast.
-5. Participé en realizar las pruebas en un entorno real.
+4. Participé en realizar las pruebas de la aplicación en un entorno real.
 
 ## Funcionamiento del frontend:
 En este proyecto se diseñó una aplicacion móvil en la cual se recopilan los datos de todos los sensores y ubicación del dispositivo guardandolos en archivos .txt. Al mismo tiempo la interfaz diseñada, tal como se muestra en la imagen, tiene varias opciones para indicar una localización y una actividad.
